@@ -1,0 +1,19 @@
+print(' _________________________ESTOQUE_________________________')
+var1 = int(input('escolha uma opção: '))
+if var1 == 1:
+    print('adicionar produtos:')
+    item = str(input('Digite o nome do item: '))
+    qtd = int(input('Digite a quantidade: '))
+    produtos
+
+    #print(f' Os itens em estoque são: {item} e a quantidade é {qtd}')
+else:
+    print('Encerrando')
+
+
+
+
+
+
+
+
